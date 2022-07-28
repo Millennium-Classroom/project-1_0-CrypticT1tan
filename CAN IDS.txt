@@ -1,0 +1,22 @@
+Drive Left Master - 01
+Drive Left Slave 1 - 02
+Drive Left Slave 2 - 03
+Drive Right Master - 04
+Drive Right Slave 1 - 05
+Drive Right Slave 2 - 06
+Elevator Right Master - 07
+Elevator Left Slave - 08
+Elevator Left Master - 09
+Elevator Right Slave - 10
+Intake Left - 11
+Intake Right - 12
+PCM (Device ID 0) - 00
+PDP (Device ID 0) - 00
+Pigeon (Device ID 16) - 16
+Talon SRX (Device ID 3) - 03
+Talon SRX (Device ID 8) - 08
+Victor SPX (Device ID 1) - 01
+Victor SPX (Device ID 13) - 13
+Victor SPX (Device ID 14) - 14
+Victor SPX (Device ID 15) - 15
+Victor SPX (Device ID 61) - 61
